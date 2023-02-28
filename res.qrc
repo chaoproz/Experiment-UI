@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Image/Welcome.png</file>
+        <file>Image/Main.png</file>
+        <file>Image/Lateral.png</file>
+        <file>Image/Pinch.png</file>
+        <file>Image/Tripod.png</file>
+    </qresource>
+</RCC>
